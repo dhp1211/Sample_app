@@ -195,8 +195,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass
   bcrypt (= 3.1.7)
+  bootstrap-sass
   byebug
   coffee-rails (~> 4.1.0)
   guard-minitest (= 2.3.1)
