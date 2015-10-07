@@ -25,3 +25,9 @@
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
+
+# Ignore Spring files.
+/spring/*.pid
+
+# Ignore uploaded test images.
+/public/uploads
